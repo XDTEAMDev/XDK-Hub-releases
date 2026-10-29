@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "vedette": "roblox:102294432604391",
+  "annonce": null,
+  "masquer": [
+    "github:XDK-TEAM-DEV-releases",
+    "roblox:14629263018"
+  ],
+  "apps": [
+    {
+      "id": "github:XDK-Musique-releases",
+      "nom": "XDK Musique",
+      "categorie": "logiciels",
+      "resume": "Le logiciel des DJ de la radio XDK : tes musiques et ton DJ live (Virtual DJ) dans le XDK LIVE FESTIVAL.",
+      "couleur": "#ff3fb4",
+      "tags": ["Musique", "DJ", "Radio"]
+    },
+    {
+      "id": "github:XDK-Opti-Disque-Securite-releases",
+      "nom": "XDK Opti Disque Sécurité",
+      "categorie": "logiciels",
+      "resume": "Analyse, nettoie et optimise tes disques, et vérifie la sécurité de ton PC.",
+      "note": "Il faut le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
+      "liens": [{ "label": ".NET 8 Desktop Runtime", "url": "https://dotnet.microsoft.com/download/dotnet/8.0" }],
+      "couleur": "#2ee86f",
+      "tags": ["Disque", "Nettoyage", "Sécurité"]
+    },
+    {
+      "id": "github:XDK-Gestionnaire-Disque-releases",
+      "nom": "XDK Gestionnaire Disque",
+      "categorie": "logiciels",
+      "resume": "Voir, ouvrir, formater, partitionner, cloner et gérer tes disques sous Windows, avec une voix qui guide.",
+      "note": "Windows demande l'autorisation administrateur au lancement : c'est normal, il en a besoin pour lire les disques.",
+      "couleur": "#ffb547",
+      "tags": ["Disque", "Xbox 360", "PS5"]
+    },
+    {
+      "id": "github:XDK-Cle-Securite-releases",
+      "nom": "XDK Clé Sécurité",
+      "categorie": "logiciels",
+      "resume": "Protège tous tes comptes avec ta clé de sécurité USB et retrouve tes vieux comptes oubliés.",
+      "couleur": "#3fe0ff",
+      "tags": ["Sécurité", "Comptes"]
+    },
+    {
+      "id": "github:XDK-TeleMulti-releases",
+      "nom": "XDK TéléMulti",
+      "categorie": "logiciels",
+      "resume": "Colle tes liens, il les télécharge tous en même temps.",
+      "couleur": "#7b8cff",
+      "tags": ["Téléchargements"]
+    },
+    {
+      "id": "github:XDK-Launcher-releases",
+      "nom": "XDK Launcher",
+      "categorie": "android",
+      "resume": "L'accueil néon de la TEAM XDK pour Android TV et Google TV : gratuit, léger, sans pub, mises à jour automatiques.",
+      "note": "Pour l'installer sur ta TV : copie l'APK sur une clé USB, ou ouvre la page GitHub dans l'app Downloader de ta TV.",
+      "couleur": "#b45cff",
+      "tags": ["Android TV", "Google TV"]
+    },
+    {
+      "id": "mod-menus",
+      "github": { "repo": "XDK-TEAM-DEV-releases", "tag": "xdk-mod-menus", "fichier": "XDK-Mod-Menus.elf" },
+      "nom": "XDK Mod Menus",
+      "categorie": "ps5",
+      "resume": "Homebrew PS5 : choisis et active tes mod menus Xbox 360 (émulateur PS5X360) depuis la console, sans PC. Il se met à jour tout seul.",
+      "icone": "https://github.com/XDTEAMDev/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-icon0.png",
+      "banniere": "https://github.com/XDTEAMDev/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-pic0.png",
+      "note": "Envoie le fichier .elf sur ta PS5 avec ton chargeur de payloads habituel.",
+      "couleur": "#3fe0ff",
+      "tags": ["PS5", "Xbox 360", "Homebrew"]
+    },
+    {
+      "id": "roblox:102294432604391",
+      "nom": "Kaze no Ronin",
+      "resume": "RPG samouraï en coop sur Roblox.",
+      "liens": [{ "label": "Discord Kaze no Ronin", "url": "https://discord.gg/ykU7SCNzp3" }],
+      "couleur": "#ff3f5e",
+      "tags": ["RPG", "Coop"]
+    },
+    {
+      "id": "roblox:125057994259676",
+      "nom": "Ninja Glow Up",
+      "resume": "Simulateur anime.",
+      "tags": ["Simulateur", "Anime"]
+    },
+    {
+      "id": "roblox:120962189444762",
+      "nom": "Vole les Œufs du Voisin",
+      "resume": "Vole les œufs, fuis la batte.",
+      "tags": ["Fun"]
+    },
+    {
+      "id": "roblox:110997284568526",
+      "nom": "Attrape ton Brainrot",
+      "resume": "20 zones, 300 brainrots à attraper.",
+      "tags": ["Collection"]
+    },
+    {
+      "id": "roblox:113981757285689",
+      "nom": "XDK WARFARE",
+      "resume": "FPS façon Call of Duty.",
+      "tags": ["FPS"]
+    },
+    {
+      "id": "roblox:95265151121763",
+      "nom": "Mon Brainrot de Live",
+      "resume": "Jeu de live TikTok : chaque viewer a son brainrot.",
+      "tags": ["Live TikTok"]
+    },
+    {
+      "id": "roblox:124233651218908",
+      "nom": "La Guerre des Plateformes",
+      "resume": "TikTok contre Twitch contre Kick : les armées du chat s'affrontent.",
+      "tags": ["Live", "Chat"]
+    },
+    {
+      "id": "roblox:125462947828605",
+      "nom": "La Tour du Chat",
+      "resume": "Le streamer grimpe, le chat construit ou piège.",
+      "tags": ["Live", "Obby"]
+    },
+    {
+      "id": "roblox:86987576411794",
+      "nom": "XDK LIVE FESTIVAL",
+      "resume": "Festival électro du live : écris !dance TonPseudo et ton avatar danse.",
+      "couleur": "#ff3fb4",
+      "tags": ["Musique", "Live TikTok"]
+    },
+    {
+      "id": "bientot-iso-studio",
+      "type": "bientot",
+      "categorie": "ps5",
+      "nom": "XDK ISO Studio",
+      "resume": "Éditeur d'ISO Xbox 360 : extraire, remplacer, installer un mod, directement sur la PS5.",
+      "tags": ["PS5", "Xbox 360"]
+    },
+    {
+      "id": "bientot-menu-gtaiv",
+      "type": "bientot",
+      "categorie": "ps5",
+      "nom": "XDK Menu GTA IV",
+      "resume": "Notre propre mod menu GTA IV, fait de zéro, pour le solo.",
+      "tags": ["GTA IV", "Mod menu"]
+    },
+    {
+      "id": "bientot-gtaiv-remastered",
+      "type": "bientot",
+      "categorie": "ps5",
+      "nom": "GTA IV Remastered",
+      "resume": "Mods, patchs et multijoueur pour GTA IV sur PS5 (émulateur PS5X360).",
+      "tags": ["GTA IV", "Multijoueur"]
+    },
+    {
+      "id": "lien-discord-dev",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "Discord XDK TEAM DEV",
+      "resume": "Homebrews PS5, logiciels PC, aide et nouvelles versions, en français et en anglais.",
+      "url": "https://discord.gg/zEC35KSuxt",
+      "couleur": "#7b8cff"
+    },
+    {
+      "id": "lien-discord-games",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "Discord XDK TEAM GAMES",
+      "resume": "Le Discord de tous nos jeux Roblox.",
+      "url": "https://discord.gg/8cUgTAHySB",
+      "couleur": "#7b8cff"
+    },
+    {
+      "id": "lien-groupe-roblox",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "Groupe Roblox TEAM XDK",
+      "resume": "Rejoins le groupe pour suivre tous nos jeux.",
+      "url": "https://www.roblox.com/communities/3626446/TEAM-XDK",
+      "couleur": "#2ee86f"
+    },
+    {
+      "id": "lien-site",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "Site TEAM XDK",
+      "resume": "Le site de l'association TEAM XDK.",
+      "url": "https://winfordfa.fr",
+      "couleur": "#b45cff"
+    },
+    {
+      "id": "lien-radio",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "XDK Radio",
+      "resume": "Le set Virtual DJ des DJ XDK en direct.",
+      "url": "https://radio.winfordfa.fr",
+      "couleur": "#ff3fb4"
+    },
+    {
+      "id": "lien-tiktok",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "TikTok @xdk_vito",
+      "resume": "Les lives interactifs de la TEAM XDK.",
+      "url": "https://www.tiktok.com/@xdk_vito",
+      "couleur": "#3fe0ff"
+    },
+    {
+      "id": "lien-youtube",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "YouTube XDK STREAM",
+      "resume": "Vidéos, démos et rediffusions.",
+      "url": "https://www.youtube.com/channel/UCHyz3_kVTo_J9HSnqFHEBUg",
+      "couleur": "#ff3f5e"
+    },
+    {
+      "id": "lien-x",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "X @XDKTeamDev",
+      "resume": "Les annonces de XDK TEAM DEV.",
+      "url": "https://x.com/XDKTeamDev",
+      "couleur": "#cdbcff"
+    },
+    {
+      "id": "lien-github",
+      "type": "lien",
+      "categorie": "communaute",
+      "nom": "GitHub XDK TEAM DEV",
+      "resume": "Toutes les versions téléchargeables.",
+      "url": "https://github.com/XDTEAMDev",
+      "couleur": "#cdbcff"
+    }
+  ]
+}
