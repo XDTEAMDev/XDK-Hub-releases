@@ -2,6 +2,7 @@
   "version": 1,
   "vedette": "roblox:102294432604391",
   "annonce": null,
+  "discord": "https://discord.gg/zEC35KSuxt",
   "masquer": [
     "github:XDK-TEAM-DEV-releases",
     "roblox:14629263018"
@@ -22,6 +23,13 @@
       "resume": "Analyse, nettoie et optimise tes disques, et vérifie la sécurité de ton PC.",
       "note": "Il faut le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
       "liens": [{ "label": ".NET 8 Desktop Runtime", "url": "https://dotnet.microsoft.com/download/dotnet/8.0" }],
+      "licence": {
+        "produit": "xdk-team-dev",
+        "fichier": "XDK TEAM DEV\\licence.txt",
+        "sel": "XDK-TEAM-DEV",
+        "achat": "https://xdkvito.gumroad.com/l/opti-disque-securite",
+        "prix": "Essai gratuit 24 h, puis 5 € pour 1 mois ou 15 € à vie."
+      },
       "couleur": "#2ee86f",
       "tags": ["Disque", "Nettoyage", "Sécurité"]
     },
@@ -31,6 +39,13 @@
       "categorie": "logiciels",
       "resume": "Voir, ouvrir, formater, partitionner, cloner et gérer tes disques sous Windows, avec une voix qui guide.",
       "note": "Windows demande l'autorisation administrateur au lancement : c'est normal, il en a besoin pour lire les disques.",
+      "licence": {
+        "produit": "ouvrir-disque",
+        "fichier": "XDK Ouvrir Disque\\licence.txt",
+        "sel": "XDK-Ouvrir-Disque",
+        "achat": "https://xdkvito.gumroad.com/l/gestionnaire-disque",
+        "prix": "Essai gratuit 24 h, puis 2,99 € pour 1 mois ou 9,99 € à vie."
+      },
       "couleur": "#ffb547",
       "tags": ["Disque", "Xbox 360", "PS5"]
     },
@@ -39,6 +54,13 @@
       "nom": "XDK Clé Sécurité",
       "categorie": "logiciels",
       "resume": "Protège tous tes comptes avec ta clé de sécurité USB et retrouve tes vieux comptes oubliés.",
+      "licence": {
+        "produit": "cle-securite",
+        "fichier": "XDK Cle Securite\\licence.txt",
+        "sel": "XDK-TEAM-DEV",
+        "achat": "https://xdkvito.gumroad.com/l/cle-securite",
+        "prix": "Essai gratuit 24 h, puis 5 € pour 1 mois ou 15 € à vie."
+      },
       "couleur": "#3fe0ff",
       "tags": ["Sécurité", "Comptes"]
     },
@@ -47,6 +69,13 @@
       "nom": "XDK TéléMulti",
       "categorie": "logiciels",
       "resume": "Colle tes liens, il les télécharge tous en même temps.",
+      "licence": {
+        "produit": "telemulti",
+        "fichier": "XDK TeleMulti\\licence.txt",
+        "sel": "XDK-TEAM-DEV",
+        "achat": "https://xdkvito.gumroad.com/l/telemulti",
+        "prix": "Essai gratuit 24 h, puis 2,99 € pour 1 mois ou 9,99 € à vie."
+      },
       "couleur": "#7b8cff",
       "tags": ["Téléchargements"]
     },
