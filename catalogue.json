@@ -5,8 +5,9 @@
   "discord": "https://discord.gg/zEC35KSuxt",
   "masquer": [
     "github:XDK-TEAM-DEV-releases",
-    "github:XDK-Wallpapers-releases",
-    "roblox:14629263018"
+    "roblox:14629263018",
+    "roblox:96556762969445",
+    "roblox:76022523091622"
   ],
   "apps": [
     {
@@ -88,20 +89,6 @@
       "note": "Pour l'installer sur ta TV : copie l'APK sur une clé USB, ou ouvre la page GitHub dans l'app Downloader de ta TV.",
       "couleur": "#b45cff",
       "tags": ["Android TV", "Google TV"]
-    },
-    {
-      "id": "fond-gta6-vice-city",
-      "github": { "repo": "XDK-Wallpapers-releases", "tag": "gta6-vice-city", "fichier": "XDK-Wallpaper-GTA6.zip" },
-      "nom": "GTA VI : Compte à rebours Vice City",
-      "categorie": "fonds",
-      "ordre": 0,
-      "resume": "Le compte à rebours jusqu'à GTA VI sur un coucher de soleil à Vice City qui bouge au rythme de ta musique.",
-      "note": "Il faut Wallpaper Engine (Steam). Le plus simple : « S'abonner sur le Workshop ». Avec le zip : dans Wallpaper Engine, Ouvrir un fond d'écran → Ouvrir depuis un fichier → index.html.",
-      "liens": [{ "label": "S'abonner sur le Workshop", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832447482" }],
-      "icone": "https://github.com/XDTEAMDev/XDK-Wallpapers-releases/releases/download/gta6-vice-city/icon.png",
-      "banniere": "https://github.com/XDTEAMDev/XDK-Wallpapers-releases/releases/download/gta6-vice-city/preview.jpg",
-      "couleur": "#ff3fb4",
-      "tags": ["Wallpaper Engine", "GTA VI", "Animé"]
     },
     {
       "id": "mod-menus",
