@@ -83,6 +83,16 @@
       "tags": ["Téléchargements"]
     },
     {
+      "id": "github:XDK-Chest-Counter-releases",
+      "nom": "XDK Chest Counter",
+      "categorie": "logiciels",
+      "resume": "Compte les coffres que tu ouvres dans Fortnite, tes trésors et tes stats de combat, avec un overlay en jeu. Gratuit.",
+      "note": "Active d'abord les rediffusions dans Fortnite : Paramètres → Jeu → Rediffusions → Enregistrer les rediffusions. Pour voir l'overlay en jeu, mets Fortnite en « Plein écran fenêtré ».",
+      "liens": [{ "label": "Discord XDK TEAM DEV", "url": "https://discord.gg/zEC35KSuxt" }],
+      "couleur": "#e8b04b",
+      "tags": ["Fortnite", "Coffres", "Overlay"]
+    },
+    {
       "id": "github:XDK-Launcher-releases",
       "nom": "XDK Launcher",
       "categorie": "android",
