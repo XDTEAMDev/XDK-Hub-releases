@@ -93,6 +93,23 @@
       "tags": ["Fortnite", "Coffres", "Overlay"]
     },
     {
+      "id": "github:XDK-Clips-releases",
+      "nom": "XDK Clips",
+      "categorie": "logiciels",
+      "resume": "Enregistre tes parties comme Medal : F8 garde les 30 dernières secondes, F9 toute la partie, et la capture démarre toute seule quand tu lances un jeu. Gratuit, Premium en option.",
+      "note": "Gratuit avec un petit filigrane. La clé Premium (essai gratuit 24 h sur le Discord) enlève le filigrane et débloque les clips de 5 min, la 4K, 144 i/s, ton son et ton logo.",
+      "licence": {
+        "produit": "clips",
+        "fichier": "XDK Clips\\licence.txt",
+        "sel": "XDK-TEAM-DEV",
+        "achat": "https://xdkvito.gumroad.com/l/xdkclips",
+        "prix": "gratuit ; Premium : essai gratuit 24 h, puis 2,99 € pour 1 mois ou 9,99 € à vie."
+      },
+      "liens": [{ "label": "Discord XDK TEAM DEV", "url": "https://discord.gg/zEC35KSuxt" }],
+      "couleur": "#ef4444",
+      "tags": ["Clips", "Enregistrement", "Jeux"]
+    },
+    {
       "id": "github:XDK-Launcher-releases",
       "nom": "XDK Launcher",
       "categorie": "android",
