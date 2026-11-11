@@ -9,7 +9,8 @@
     "roblox:14629263018",
     "roblox:96556762969445",
     "roblox:76022523091622",
-    "github:XDK-Tchac-releases"
+    "github:XDK-Tchac-releases",
+    "github:XDK-PetitsPas-releases"
   ],
   "apps": [
     {
@@ -327,12 +328,16 @@
     },
     {
       "id": "enfants:petits-pas",
-      "type": "lien",
+      "github": { "repo": "XDK-PetitsPas-releases", "fichier": "XDKPetitsPas.exe.verrou" },
+      "verrou": { "groupe": "enfants", "fichier": "XDKPetitsPas.exe", "cles": "XDKPetitsPas.verrou.json" },
+      "type": "windows",
       "categorie": "enfants",
       "nom": "Petits Pas",
-      "resume": "Six petits jeux dans le navigateur : syllabes, loto des sons, fusée à la voix, journée en images, émotions et coin calme. Avec le même code.",
-      "url": "https://xdteamdev.github.io/petits-pas/",
-      "couleur": "#5cc8a0"
+      "resume": "Six petits jeux : syllabes, loto des sons, fusée à la voix, journée en images, émotions et coin calme.",
+      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. L'appli Android et la version navigateur sont sur xdteamdev.github.io/petits-pas, avec le même code.",
+      "liens": [{ "label": "Android et navigateur", "url": "https://xdteamdev.github.io/petits-pas/" }],
+      "couleur": "#5cc8a0",
+      "tags": ["22q11", "4 à 7 ans", "Parole", "Émotions"]
     }
   ]
 }
