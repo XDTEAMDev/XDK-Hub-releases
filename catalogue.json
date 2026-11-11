@@ -8,7 +8,8 @@
     "github:XDK-Wallpapers-releases",
     "roblox:14629263018",
     "roblox:96556762969445",
-    "roblox:76022523091622"
+    "roblox:76022523091622",
+    "github:XDK-Tchac-releases"
   ],
   "apps": [
     {
@@ -307,6 +308,31 @@
       "resume": "Toutes les versions téléchargeables.",
       "url": "https://github.com/XDTEAMDev",
       "couleur": "#cdbcff"
+    }
+  ],
+  "enfants": [
+    {
+      "id": "enfants:tchac",
+      "github": { "repo": "XDK-Tchac-releases", "fichier": "XDKTchac.exe.verrou" },
+      "verrou": { "groupe": "enfants", "fichier": "XDKTchac.exe", "cles": "XDKTchac.verrou.json" },
+      "type": "windows",
+      "categorie": "enfants",
+      "nom": "Tchac !",
+      "resume": "Le jeu de cartes à ventouse : la voix dit « Le bateau sur la carte jaune ! », l'enfant tape la bonne carte.",
+      "description": "Tchac ! est un jeu de cartes à ventouse pour les enfants de 4 à 7 ans avec un syndrome 22q11. On pose les cartes sur la table, la voix donne la consigne et l'enfant tape la bonne carte avec sa baguette.\n\n- **Pièges des oreilles** : des mots qui sonnent presque pareil (bateau, gâteau, château, chapeau…).\n- **Pièges des yeux** : des images qui se ressemblent (lune, banane, croissant…).\n- 3 niveaux, voix lente ou normale, consigne dite une ou deux fois.\n- Marche sans Internet, rien n'est envoyé.",
+      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. Les cartes à imprimer et l'appli Android sont sur xdteamdev.github.io/XDK-Tchac-releases, avec le même code.",
+      "liens": [{ "label": "Cartes à imprimer et Android", "url": "https://xdteamdev.github.io/XDK-Tchac-releases/" }],
+      "couleur": "#f2c12e",
+      "tags": ["22q11", "4 à 7 ans", "Écoute", "Attention"]
+    },
+    {
+      "id": "enfants:petits-pas",
+      "type": "lien",
+      "categorie": "enfants",
+      "nom": "Petits Pas",
+      "resume": "Six petits jeux dans le navigateur : syllabes, loto des sons, fusée à la voix, journée en images, émotions et coin calme. Avec le même code.",
+      "url": "https://xdteamdev.github.io/petits-pas/",
+      "couleur": "#5cc8a0"
     }
   ]
 }
