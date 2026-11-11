@@ -94,6 +94,7 @@
     },
     {
       "id": "github:XDK-Clips-releases",
+      "github": { "repo": "XDK-Clips-releases" },
       "nom": "XDK Clips",
       "categorie": "logiciels",
       "resume": "Enregistre tes parties comme Medal : F8 garde les 30 dernières secondes, F9 toute la partie, et la capture démarre toute seule quand tu lances un jeu. Gratuit, Premium en option.",
